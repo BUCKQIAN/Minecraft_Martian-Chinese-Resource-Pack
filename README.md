@@ -13,7 +13,7 @@
 * 本语言包**仅供娱乐** 如有错误，当我没说。
 * 本语言包跟Mojang、Minecraft Wiki 等无关，本来的简体中文（中国大陆）翻译版权为Mojang、Crowdin翻译者和其他翻译者所有。
   * 关于正确的译名，请参见[中文Minecraft Wiki上的标准译名列表](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki:译名标准化)。
+  * 火星中文的对照翻译来自[UU在线工具](https://uutool.cn/huoxinwen/)。
 * 本语言包背景图片为蓝圆红星旗帜（MXZUT旗帜），只是游戏中随便制作的旗帜。与越南，朝鲜，日本等国国旗无关！
-  
 
 （README部分参照TEAHOUSE发布的README文件）
